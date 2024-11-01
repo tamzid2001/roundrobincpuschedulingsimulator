@@ -1,4 +1,3 @@
-```markdown
 # Round Robin CPU Scheduling Simulator
 
 ![Project Logo](https://example.com/logo.png) *(Optional: Add a relevant logo)*
